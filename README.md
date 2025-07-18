@@ -11,11 +11,11 @@
 
 I’m an IT professional with **14+ years** of deep expertise in **Site Reliability Engineering (SRE)**, specializing as a **Solace PubSub+ Subject Matter Expert (SME)**. I design, build, and operate scalable, highly available messaging systems that power mission-critical data flows across cloud and on-premises environments.
 
-Lead a globally distributed Site Reliability Engineering team focused on the design, deployment, and operational excellence of Solace PubSub+ messaging platforms supporting critical enterprise event-driven architectures.
+I lead a globally distributed Site Reliability Engineering team focused on the design, deployment, and operational excellence of **Solace PubSub+** messaging platforms supporting critical enterprise event-driven architectures and 24x7 operational support.
 
-Currently, I lead SRE teams at **Standard Chartered Bank**, driving platform reliability, automation, and seamless integration.
+I’m passionate about leveraging technology to solve complex integration challenges and optimizing system resilience through continuous monitoring, proactive troubleshooting, and collaboration with cross-functional teams.
 
-I’m passionate about optimizing Solace deployments through platform health audits, 24/7 operational support, observability enhancements, and developer enablement.
+Currently, I specialize as a **Solace PubSub+ SME**, helping organizations optimize their Solace deployments by providing platform health audits, 24/7 operational support, observability enhancements, and developer enablement.
 
 ---
 
@@ -30,11 +30,12 @@ I’m passionate about optimizing Solace deployments through platform health aud
 
 ## 🔧 Core Expertise
 
+- Solace PubSub+ Consulting  
+- Solace PubSub+ Production Engineering and 24x7 Operational Support & Incident Management  
+- Solace PubSub+ Training  
 - Solace PubSub+ Platform Health & Optimization  
-- Site Reliability Engineering (SRE) Practices  
-- Messaging Infrastructure Automation  
-- Observability & Monitoring Enhancements  
-- 24x7 Operational Support & Incident Management
+- Solace PubSub+ Infrastructure & Security Best Practice Review  
+- Site Reliability Engineering (SRE) Practices for Solace PubSub+
 
 ---
 
