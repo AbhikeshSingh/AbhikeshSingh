@@ -2,25 +2,20 @@
 
 <img src="https://komarev.com/ghpvc/?username=AbhikeshSingh&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" align="right" />
 
-🚀 **Messaging Platform Specialist | SRE Leader | Solace SME**  
+🚀 **Solace PubSub+ SME | Site Reliability Engineering (SRE) Leader**  
 🌐 [Website](https://abhikeshsingh.github.io) • [LinkedIn](https://linkedin.com/in/abhikesh) • [GitHub](https://github.com/AbhikeshSingh)
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m an IT professional with **14+ years** of deep expertise in **Site Reliability Engineering (SRE)**, focusing on integration middleware platforms like **Solace PubSub+**. I specialize in designing, building, and operating scalable, highly available systems that power mission-critical data flows across cloud and on-premises environments.
+I’m an IT professional with **14+ years** of deep expertise in **Site Reliability Engineering (SRE)**, specializing as a **Solace PubSub+ Subject Matter Expert (SME)**. I design, build, and operate scalable, highly available messaging systems that power mission-critical data flows across cloud and on-premises environments.
 
-💼 Currently, I lead SRE initiatives at **Standard Chartered Bank**, driving platform reliability, performance, and automation for enterprise-scale messaging.
+Lead a globally distributed Site Reliability Engineering team focused on the design, deployment, and operational excellence of Solace PubSub+ messaging platforms supporting critical enterprise event-driven architectures.
 
-🛠️ Previously, I served as a hands-on Solace Engineer, enabling global messaging solutions, automation, and 24x7 support.
+Currently, I lead SRE teams at **Standard Chartered Bank**, driving platform reliability, automation, and seamless integration.
 
-🎯 Passionate about solving complex integration challenges, enabling observability, proactive incident management, and cross-functional collaboration.
-
-📌 **Specialization**:  
-Solace PubSub+ SME | Messaging Infrastructure | SRE Strategy | Automation | Platform Health Audits | Observability | Developer Enablement
-
-🎓 **MBA in IT** – blending strategic thinking with hands-on technical execution.
+I’m passionate about optimizing Solace deployments through platform health audits, 24/7 operational support, observability enhancements, and developer enablement.
 
 ---
 
@@ -33,15 +28,13 @@ Solace PubSub+ SME | Messaging Infrastructure | SRE Strategy | Automation | Plat
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🔧 Core Expertise
 
-![Solace](https://img.shields.io/badge/Solace-PubSub%2B-blue?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCc+PC9zdmc+)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)  
+- Solace PubSub+ Platform Health & Optimization  
+- Site Reliability Engineering (SRE) Practices  
+- Messaging Infrastructure Automation  
+- Observability & Monitoring Enhancements  
+- 24x7 Operational Support & Incident Management
 
 ---
 
