@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=AbhikeshSingh&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" align="right" />
 
-🚀 **Solace PubSub+ SME | Site Reliability Engineering (SRE) Leader**  
+🚀 **SRE Manager | Solace PubSub+ SME | Kafka Platform Support | Ex-PSG Consultant – Customer Success | Expert in Messaging Reliability & Client Enablement | MBA – IT**  
 🌐 [Website](https://abhikeshsingh.github.io) • [LinkedIn](https://linkedin.com/in/abhikesh) • [GitHub](https://github.com/AbhikeshSingh)
 
 ---
