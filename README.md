@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=AbhikeshSingh&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" align="right" />
 
-💼 **Solace PubSub+ SME | SRE Manager | PSG (Customer Success) Consultant**  
+💼 **Technology Service Support Owner (TSuO) | Solace Messaging Expert | Banking & Enterprise Systems | Operational Resilience | MBA - IT**  
 📍 Warsaw, Poland (EU) | 🌐 14+ years across Banking, Telecom & Tech Services  
 🌐 [Website](https://abhikeshsingh.github.io) • [LinkedIn](https://linkedin.com/in/abhikesh) • [GitHub](https://github.com/AbhikeshSingh)
 
