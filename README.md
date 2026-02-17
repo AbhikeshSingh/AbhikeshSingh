@@ -42,7 +42,7 @@ I help global enterprises modernize event-driven architectures by delivering:
 - 📧 Email: [abhikesh.singh123@gmail.com](mailto:abhikesh.singh123@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/abhikesh](https://linkedin.com/in/abhikesh)  
 - 🌍 Website: [abhikeshsingh.github.io](https://abhikeshsingh.github.io)  
-- 💬 WhatsApp: [+91-8920246956](https://wa.me/918920246956)
+- 💬 WhatsApp: India [+91-8920246956](https://wa.me/918920246956) | Poland [+48-8920246956](https://wa.me/48729645918)
 
 ---
 
